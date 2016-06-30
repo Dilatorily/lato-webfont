@@ -1,0 +1,22 @@
+{
+  "name": "lato-webfont",
+  "version": "2.15.0",
+  "description": "NPM package for the Lato font",
+  "main": "lato.css",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dilatorily/lato.git"
+  },
+  "keywords": [
+    "lato",
+    "font",
+    "webfont",
+    "css"
+  ],
+  "author": "Łukasz Dziedzic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dilatorily/lato/issues"
+  },
+  "homepage": "http://www.latofonts.com"
+}
